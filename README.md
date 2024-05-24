@@ -4,7 +4,7 @@
 Justin Tran
 
 ### Github Pages
-[Github Pages]()
+[Github Pages](https://jtran-9.github.io/Lab8-Starter/)
 
 ### Graceful Degradation and Service Workers
 boo
